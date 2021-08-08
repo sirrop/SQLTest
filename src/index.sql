@@ -1,3 +1,2 @@
-use TestDB
-select* 
-from Inventory;
+USE TestDB
+SELECT* FROM Inventory;
