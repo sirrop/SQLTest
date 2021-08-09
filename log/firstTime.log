@@ -1,0 +1,2 @@
+Msg 5105, Level 16, State 2, Server branc-MS-7A82, Line 1
+ファイルのアクティブ化エラーが発生しました。物理ファイル名 'data/DPC_MILLET_SMALL.mdf' が不適切な可能性があります。関連するエラーを診断して修正し、操作を再試行してください。
